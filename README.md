@@ -1,6 +1,3 @@
-# About_Me
-An Introduction to me
-
 <h1 align="center">Hi 👋, I'm Matt Ieraci</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Montreal</h3>
 
