@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt Ieraci</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Montreal</h3>
 
-- 🔭 I’m currently working on a [Crypto Trading Buddy](https://github.com/matt-ieraci/crypto-market-predictor)
+- 🔭 I’m currently working on a [Market Predictor](https://github.com/matt-ieraci/crypto-market-predictor)
 
 - 🌱 I’m currently learning **Data Science and Machine Learning skills and constantly looking for new technologies to add to my skillset.**
 
